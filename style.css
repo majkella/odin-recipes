@@ -1,0 +1,50 @@
+body {
+    background-color: #FEFAE0;
+}
+h1 {
+    font-family: 'Lucida Console', Monaco, monospace;
+    text-align: center;
+    color: #BC6C25;
+    border: double #DDA15E;
+}
+h2 {
+    font-family: 'Lucida Console', Monaco, monospace;
+    color: #606C38;
+   
+}
+p,
+ul,
+ol {
+    font-family: 'Courier New', Monaco, monospace;
+    font-size: 15px;
+    text-align: left;
+    color: #181818;
+}
+p.index {
+    font-size: 20px;
+}
+.note.main {
+    font-family: 'Lucida Handwriting', cursive;
+    font-size: 10px;
+    text-align: center;
+    color: grey;
+}
+img {
+    border: double #283618;
+    width: 500px;
+    height: auto;
+}
+img.main-img {
+    width: 100px;
+    height: 50px;
+    object-fit: cover;
+}
+.img-container {
+    text-align: center;
+}
+ul li {
+    margin-bottom: 1.5px;
+}
+ol li {
+    margin-bottom: 5px;
+}
